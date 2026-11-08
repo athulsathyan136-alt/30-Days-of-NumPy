@@ -1,0 +1,31 @@
+Date,Category,Description,Amount,Payment_Method
+2026-01-01,Food,Groceries,2500,UPI
+2026-01-03,Transport,Bus Pass,800,Cash
+2026-01-05,Education,Online Course,1500,Card
+2026-01-08,Food,Restaurant,650,UPI
+2026-01-10,Utilities,Electricity Bill,1200,UPI
+2026-01-12,Shopping,Clothes,2200,Card
+2026-01-15,Transport,Fuel,1800,UPI
+2026-01-18,Food,Groceries,1800,Cash
+2026-01-20,Entertainment,Movie,500,UPI
+2026-01-25,Utilities,Internet Bill,900,UPI
+2026-02-01,Food,Groceries,2800,UPI
+2026-02-03,Transport,Bus Pass,800,Cash
+2026-02-05,Education,Books,1200,Card
+2026-02-08,Food,Restaurant,750,UPI
+2026-02-10,Utilities,Electricity Bill,1350,UPI
+2026-02-12,Shopping,Shoes,3000,Card
+2026-02-15,Transport,Fuel,1600,UPI
+2026-02-18,Food,Groceries,2100,Cash
+2026-02-20,Entertainment,Subscription,400,UPI
+2026-02-25,Utilities,Internet Bill,900,UPI
+2026-03-01,Food,Groceries,2600,UPI
+2026-03-03,Transport,Bus Pass,800,Cash
+2026-03-05,Education,Online Course,2000,Card
+2026-03-08,Food,Restaurant,850,UPI
+2026-03-10,Utilities,Electricity Bill,1250,UPI
+2026-03-12,Shopping,Accessories,1500,Card
+2026-03-15,Transport,Fuel,1900,UPI
+2026-03-18,Food,Groceries,2300,Cash
+2026-03-20,Entertainment,Movie,600,UPI
+2026-03-25,Utilities,Internet Bill,900,UPI
