@@ -1,0 +1,7 @@
+CITY WEATHER ANALYSIS SUMMARY
+==============================
+Records: 61
+Average Temperature: 31.16 C
+Total Rainfall: 267.00 mm
+Average Humidity: 74.62%
+Average Wind Speed: 12.67 km/h
