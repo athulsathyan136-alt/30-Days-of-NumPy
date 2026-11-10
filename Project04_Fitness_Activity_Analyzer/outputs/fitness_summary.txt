@@ -1,0 +1,10 @@
+FITNESS ACTIVITY ANALYSIS REPORT
+================================
+Total Days: 90
+Average Steps: 8047.78
+Average Calories: 2402.89
+Average Sleep: 7.22 hours
+Average Workout: 40.44 minutes
+Average Water: 2.39 liters
+Step Goal Achievement: 21.11%
+Sleep-Steps Correlation: 0.968
