@@ -1,0 +1,8 @@
+STUDENT PERFORMANCE ANALYSIS
+=============================
+Total Students: 30
+Average Score: 78.98
+Students Passing All Subjects: 30
+Best Subject: Computer
+Lowest Subject: Math
+Study Hours Correlation: 0.970
