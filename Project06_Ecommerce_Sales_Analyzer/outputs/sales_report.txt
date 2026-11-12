@@ -1,0 +1,48 @@
+ECOMMERCE SALES PERFORMANCE REPORT
+=============================================
+
+Total Orders: 30
+Total Quantity Sold: 55
+Total Revenue: 468000.00
+Average Order Revenue: 15600.00
+Highest Order Revenue: 130000.00
+Lowest Order Revenue: 1400.00
+Median Order Revenue: 5200.00
+Revenue Standard Deviation: 26983.85
+75th Percentile Revenue: 10375.00
+
+PRODUCT PERFORMANCE
+------------------------------
+Best Product: Laptop
+Lowest Revenue Product: Tshirt
+
+TOP FIVE PRODUCTS BY REVENUE
+------------------------------
+Laptop: 260000.00
+Sofa: 88000.00
+Table: 34000.00
+Chair: 22000.00
+Watch: 14000.00
+
+CATEGORY PERFORMANCE
+------------------------------
+Electronics: 290500.00
+Fashion: 33500.00
+Furniture: 144000.00
+
+Best Category: Electronics
+
+MONTHLY PERFORMANCE
+------------------------------
+2026-01: 119400.00
+2026-02: 195000.00
+2026-03: 153600.00
+Best Month: 2026-02
+
+REGIONAL PERFORMANCE
+------------------------------
+East: 177200.00
+North: 110600.00
+South: 132500.00
+West: 47700.00
+Best Region: East
