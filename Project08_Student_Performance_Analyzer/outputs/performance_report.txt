@@ -1,0 +1,29 @@
+STUDENT PERFORMANCE ANALYZER
+========================================
+
+Total students: 15
+Class average: 76.11
+Highest mark: 100.00
+Lowest mark: 35.00
+Median mark: 80.00
+Standard deviation: 18.68
+
+Passed students: 15
+Failed students: 0
+
+SUBJECT AVERAGES
+Math: 73.20
+Science: 76.20
+English: 75.07
+Computer: 78.67
+Social_Studies: 77.40
+
+TOP FIVE STUDENTS
+1. Diya - 97.00
+2. Meera - 95.20
+3. Anjali - 93.60
+4. Priya - 93.40
+5. Fathima - 89.60
+
+LOWEST PERFORMING STUDENT
+David - 40.00
