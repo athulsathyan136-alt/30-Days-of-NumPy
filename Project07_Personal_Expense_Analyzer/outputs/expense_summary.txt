@@ -1,0 +1,40 @@
+PERSONAL EXPENSE ANALYZER
+===================================
+
+Total transactions: 15
+Total expenses: Rs. 7270.00
+Average expense: Rs. 484.67
+Median expense: Rs. 350.00
+Highest expense: Rs. 1500.00
+Lowest expense: Rs. 100.00
+Standard deviation: Rs. 394.41
+
+HIGHEST TRANSACTION
+Date: 2026-11-14
+Category: Shopping
+Amount: Rs. 1500.00
+
+LOWEST TRANSACTION
+Date: 2026-11-02
+Category: Transport
+Amount: Rs. 100.00
+
+CATEGORY-WISE EXPENSES
+Education: Rs. 1250.00
+Entertainment: Rs. 900.00
+Food: Rs. 1350.00
+Shopping: Rs. 3400.00
+Transport: Rs. 370.00
+
+EXPENSES ABOVE RS. 500
+Rs. 1200.00
+Rs. 800.00
+Rs. 700.00
+Rs. 1500.00
+
+TOP 5 EXPENSES
+Rs. 1500.00
+Rs. 1200.00
+Rs. 800.00
+Rs. 700.00
+Rs. 500.00
