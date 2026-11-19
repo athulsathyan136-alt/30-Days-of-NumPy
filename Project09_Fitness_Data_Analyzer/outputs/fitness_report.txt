@@ -1,0 +1,27 @@
+FITNESS DATA ANALYZER
+========================================
+
+Total days: 20
+Average steps: 8755.00
+Maximum steps: 13000
+Minimum steps: 4500
+Average calories: 2300.00
+Average sleep: 7.35 hours
+Average water: 2.61 liters
+Average workout: 45.00 minutes
+
+Days with 10,000+ steps: 7
+Days with 30+ workout minutes: 15
+Days with less than 7 hours sleep: 5
+Steps-calories correlation: 0.997
+
+MOST ACTIVE DAY
+2026-11-12: 13000 steps
+
+LEAST ACTIVE DAY
+2026-11-06: 4500 steps
+
+WEEKLY AVERAGE STEPS
+Week 1: 8385.71
+Week 2: 9214.29
+Week 3: 8650.00
