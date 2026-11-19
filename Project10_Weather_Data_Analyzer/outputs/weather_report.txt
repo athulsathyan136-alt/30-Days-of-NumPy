@@ -1,0 +1,38 @@
+WEATHER DATA ANALYZER
+========================================
+
+City: Kochi
+Total days: 20
+Average temperature: 31.00 C
+Maximum temperature: 36.00 C
+Minimum temperature: 28.00 C
+Median temperature: 30.50 C
+Temperature standard deviation: 2.21
+
+Total rainfall: 110.00 mm
+Average rainfall: 5.50 mm
+Rainy days: 12
+Average humidity: 75.40%
+Average wind speed: 14.00 km/h
+High wind days: 6
+
+Hot days: 5
+Moderate days: 13
+Cool days: 2
+
+HOTTEST DAY
+2026-11-19: 36.0 C
+
+COLDEST DAY
+2026-11-04: 28.0 C
+
+Temperature 25th percentile: 29.00
+Temperature 50th percentile: 30.50
+Temperature 75th percentile: 32.25
+IQR upper limit: 37.12
+Detected temperature outliers: 0
+
+WEEKLY TEMPERATURE AVERAGES
+Week 1: 30.43 C
+Week 2: 30.86 C
+Week 3: 31.83 C
