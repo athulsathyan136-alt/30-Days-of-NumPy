@@ -1,0 +1,16 @@
+customer_id,product_category,quantity,unit_price,month
+101,Electronics,2,15000,1
+102,Clothing,3,1200,1
+103,Electronics,1,25000,2
+104,Grocery,10,100,2
+105,Clothing,5,1500,3
+106,Furniture,1,18000,3
+107,Electronics,2,12000,4
+108,Grocery,15,80,4
+109,Furniture,2,10000,5
+110,Clothing,4,2000,5
+111,Electronics,1,30000,6
+112,Grocery,20,120,6
+113,Furniture,1,25000,7
+114,Clothing,6,1000,7
+115,Electronics,3,10000,8
