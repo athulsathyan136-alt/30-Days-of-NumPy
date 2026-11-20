@@ -1,0 +1,42 @@
+
+EMPLOYEE PERFORMANCE AND SALARY ANALYZER
+=========================================
+
+GENERAL INFORMATION
+
+Total Employees: 10
+Average Age: 27.40
+Average Monthly Salary: 36800.00
+Total Monthly Salary Expenditure: 368000.00
+
+SALARY ANALYSIS
+
+Highest Salary: 55000.00
+Lowest Salary: 22000.00
+Median Salary: 36500.00
+25th Percentile: 28500.00
+75th Percentile: 43750.00
+
+PERFORMANCE ANALYSIS
+
+Average Performance: 81.70
+Highest Performance: 97.00
+Lowest Performance: 58.00
+
+Top Employee ID: 110
+Top Employee Score: 97.0
+
+EMPLOYEE FILTERS
+
+High Performers: 5
+Low Attendance Employees: 2
+High Salary Employees: 4
+
+WORKING HOURS
+
+Average Hours: 171.50
+Maximum Hours: 195.0
+Minimum Hours: 145.0
+
+=========================================
+END OF REPORT
