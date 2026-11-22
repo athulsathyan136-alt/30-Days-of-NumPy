@@ -1,0 +1,13 @@
+Employee_ID,Department,Experience,Salary,Performance,Rating
+201,Engineering,2,35000,78,Average
+202,HR,5,42000,82,Good
+203,Engineering,8,75000,91,Excellent
+204,Sales,3,38000,70,Average
+205,HR,6,50000,85,Good
+206,Engineering,10,95000,96,Excellent
+207,Sales,4,45000,76,Average
+208,Finance,7,68000,88,Good
+209,Finance,9,82000,93,Excellent
+210,Sales,2,36000,72,Average
+211,Engineering,5,62000,89,Good
+212,HR,8,58000,90,Excellent

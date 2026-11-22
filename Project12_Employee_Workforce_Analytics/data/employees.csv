@@ -1,0 +1,13 @@
+Employee_ID,Department,Experience_Years,Monthly_Salary,Performance_Score
+201,Engineering,2,35000,78
+202,HR,5,42000,82
+203,Engineering,8,75000,91
+204,Sales,3,38000,70
+205,HR,6,50000,85
+206,Engineering,10,95000,96
+207,Sales,4,45000,76
+208,Finance,7,68000,88
+209,Finance,9,82000,93
+210,Sales,2,36000,72
+211,Engineering,5,62000,89
+212,HR,8,58000,90
