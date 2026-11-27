@@ -1,0 +1,12 @@
+hello world
+hello numpy
+hello artificial intelligence
+machine learning is interesting
+deep learning uses neural networks
+artificial intelligence learns from data
+numpy helps us understand numerical computing
+machine learning learns patterns from examples
+deep learning learns complex patterns
+hello world
+hello numpy
+machine learning is interesting
